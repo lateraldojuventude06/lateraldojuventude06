@@ -1,16 +1,15 @@
-## Hi there 👋
+## Eai, meu lateral!!
 
-<!--
-**lateraldojuventude06/lateraldojuventude06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Vinicius.
 
-Here are some ideas to get you started:
+  - Estou jogando no @__juventude.fc
+  - Estudo na Evonio Marques
+  - Estou estudando no [alura](https://www.alura.com.br)
+  - estou me desenvolvendo ma línguagem javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Você pode entrar em contato comigo
+   - 00001115091311sp@al.educacao.sp.gov.br
+   
+  - @Vinicius_siqueira034
+
+    ![](https://media.tenor.com/1fpGXO9aK4gAAAAi/neymar.gif)
